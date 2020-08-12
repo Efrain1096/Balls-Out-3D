@@ -1,0 +1,72 @@
+
+ASSETS USED
+
+Sprites: All 3D models are the standard stock ones provided by unity.
+
+	
+
+2D Art:	I have made all the 2D art work used for adding color and aesthetic appeal to all the 3D models. Original and made by me 
+	(Efrain Vasques \^.^/)
+
+	Bouncy_Surface.png 		(Made by Efrain Vasques)
+	Custom_Surface.png		(Made by Efrain Vasques)
+	Neon_Skin.png			(Made by Efrain Vasques)
+	Plasma_Skin.png			(Made by Efrain Vasques)
+	Start_Texture.png		(Made by Efrain Vasques)
+	Ball_Crawler_Background.png 	(Made by Efrain Vasques)
+	Ball_Crawler_Background2.png	(Made by Efrain Vasques)
+	Ball_Crawler_Background3.png	(Made by Efrain Vasques)
+	Ball_Crawler_Button.png		(Made by Efrain Vasques)
+	Ball_Crawler_Button2.png	(Made by Efrain Vasques)
+	EV_Logo.png			(Made by Efrain Vasques)
+	How_To_Play.png			(Made by Efrain Vasques)
+	Neon_Skin.png			(Made by Efrain Vasques)
+	Plasma_Sking.png		(Made by Efrain Vasques)
+	Neon_Streaks_Skin.png		(Made by Efrain Vasques)
+
+Splashscreen logo:
+			EV_Logo.png 	(Made by Efrain Vasques)
+			
+
+Font: https://www.1001freefonts.com/saucer.font (SAUCER font)
+
+
+SOUNDS
+Music:		“Secret Labs”, from PlayOnLoop.com
+		Licensed under Creative Commons by Attribution 4.0
+
+Sound FX: 	All Original and made by me using a Revelle QX500 violin and my voice.
+		
+		Death_Noise.wav 		(Made by Efrain Vasques)
+		Victory_Music1.wav 		(Made by Efrain Vasques)
+		Victory_Music2.wav		(Made by Efrain Vasques)
+		Victory_Music3.wav		(Made by Efrain Vasques)
+		Violin_Pizzicato_Glissando1.wav	(Made by Efrain Vasques)
+		Violin_Pizzicato_Glissando2.wav	(Made by Efrain Vasques)
+		Violin_Pizzicato_Glissando3.wav	(Made by Efrain Vasques)
+
+https://creativecommons.org/licenses/by/4.0/
+
+Script code references:
+https://www.youtube.com/watch?v=JL44RFYVijA (Making a simple pause menu)
+
+https://www.instructables.com/id/2-Starting-to-Make-a-Game-Making-a-Splashscreen-in/ (Making a splashscreen)
+
+https://www.youtube.com/watch?v=ToVL_f9G9Yk (IEnumerator and music transitioning between scenes)
+
+https://www.youtube.com/watch?v=qGAsgIJ-c38& (Adding sound effects to game)
+
+https://docs.unity3d.com/ScriptReference/index.html (Unity Documentation, of course)
+
+https://www.youtube.com/watch?v=OR0e-1UBEOU (How to Make a Game - Unity for Beginners)
+
+
+https://stackoverflow.com/questions/25930919/accessing-a-variable-from-another-script-c-sharp (accessing-a-variable-from-another-script-c-sharp)
+
+https://www.sitepoint.com/saving-data-between-scenes-in-unity/ (Singleton Method)
+
+https://cc.davelozinski.com/c-sharp/fastest-way-to-convert-an-int-to-string
+
+https://gamedev.stackexchange.com/questions/160156/how-do-i-display-a-variable-in-a-ui-text-component 
+
+https://www.youtube.com/watch?v=qe8MCWsGthM (Making a time counter)
